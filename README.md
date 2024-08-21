@@ -22,5 +22,5 @@ Hello World! Me chamo Claudio Kirsten, sou apaixonado por tecnologia. Busco semp
 
 ## Contato
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:\\linkedin.com/in/claudio-kirsten)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https:\\crgkirstenn@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/claudio-kirsten)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://crgkirstenn@gmail.com)
