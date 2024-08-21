@@ -3,7 +3,7 @@
 ### 👨‍💻 Sobre mim
 Hello World! Me chamo Claudio Kirsten, sou apaixonado por tecnologia. Busco sempre aprimorar e melhorar minhas habilidades, atualmente trilhando o caminho da programação. Desde 2021 estou nesse meio, tendo um curso técnico de Desenvolvimento de Sistemas da Etec Adolpho Berezin, e no atual momento, cursando Análise e Desenvolvimento de Sistemas na UNISANTOS.
 
-🎓 Formação: Desenvolvimento de Software
+🎓 Formação: Desenvolvimento de Software <br>
 🎓 Formação: Análise e Desenvolvimento de Software
 
 ## Tecnologias que eu utilizo
