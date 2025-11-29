@@ -1,7 +1,7 @@
 ## Claudio Roberto G. Kirsten - Desenvolvedor Full Stack
 
 ### 👨‍💻 Sobre mim
-Hello World! Me chamo Claudio Kirsten, sou apaixonado por tecnologia. Busco sempre aprimorar e melhorar minhas habilidades, atualmente trilhando o caminho da programação. Desde 2021 estou nesse meio, tendo um curso técnico de Desenvolvimento de Sistemas da Etec Adolpho Berezin, e no atual momento, cursando Análise e Desenvolvimento de Sistemas na UNISANTOS.
+Hello World! Me chamo Claudio Kirsten, sou apaixonado por tecnologia. Busco sempre aprimorar e melhorar minhas habilidades, atualmente trilhando o caminho da Análise de Dados. Desde 2021 estou nesse meio, tendo um curso técnico de Desenvolvimento de Sistemas da Etec Adolpho Berezin, e no atual momento, cursando Ciencias Economicas na Universidade São Judas Tadeu.
 
 🎓 Formação: Desenvolvimento de Software <br>
 🎓 Formação: Análise e Desenvolvimento de Software
