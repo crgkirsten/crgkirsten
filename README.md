@@ -20,6 +20,7 @@ Hello World! Sou o Cláudio, um Analista de Dados apaixonado por unir a tecnolog
 <div style="display: inline_block"> <br>
   <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="power-bi" src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black">
 </div>
 
 ## Contato
